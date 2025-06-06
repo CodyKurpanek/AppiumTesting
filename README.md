@@ -29,3 +29,9 @@ Get the appium windows driver:
 ```powershell
 appium driver install windows
 ```
+
+Now we also need to download the actual windows driver: (Actually interfaces with the app)
+https://github.com/Microsoft/WinAppDriver/releases
+
+You can now also install appium inspector. This allows you to open a desktop app through appium and see properties in real time as you click on areas of your desktop app.
+https://github.com/appium/appium-inspector
